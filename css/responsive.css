@@ -1,0 +1,261 @@
+       @media screen and (max-width: 1200px) {
+          #portfolio-aside {
+                padding-top: 3em;
+                float: left;
+                width: 19rem;
+                position: fixed;
+                overflow-y: scroll;
+                margin-left: -1rem; }
+                 #portfolio-aside .author-img{
+                    margin-bottom: 1rem;
+                    margin-top: -2rem;}
+                 #portfolio-aside h1{
+                    margin-top: 1rem;}
+                    #portfolio-aside #portfolio-main-menu{
+                    margin-top: -0.8rem;}
+        .portfolio-feature .portfolio-icon i {
+            font-size: 40px; } 
+            #portfolio-logo,
+                #portfolio-main-menu{
+                   margin-top: -1.2rem;}
+                      #portfolio-aside .portfolio-footer ul {
+                          margin-top: -1rem;}
+                       #portfolio-counter{
+                        margin-left: 0;
+                        margin-top: .8rem; }
+        .portfolio-feature.portfolio-feature-sm .portfolio-icon i {
+            font-size: 28px; }}
+     @media screen and (max-width: 992px) {
+         #portfolio-aside{
+            width: 18rem;} 
+                .btn-load-more{
+                padding: .5rem 17.5rem;}
+                #slider{
+                    margin-left: -1.8rem; }
+                #portfolio-aside h1{
+                    margin-left: .8rem;}
+                .portfolio-about,
+                .portfolio-services,
+                .portfolio-skills,
+                .portfolio-client,
+                .portfolio-education,
+                .portfolio-experience,
+                .portfolio-work,
+                .portfolio-blog,
+                .portfolio-contact{
+                    margin-left: -.6rem;
+                    margin-top: 2rem;
+                    padding: .5rem;}
+                    #portfolio-aside .portfolio-footer ul li{
+                        margin: 0;
+                    }
+                #portfolio-logo,
+                #portfolio-main-menu{
+                   margin-top: -1.2rem;}                 
+                      #portfolio-aside .portfolio-footer ul {
+                          margin-top: -1rem; }
+                .portfolio-contact{
+                    margin-bottom: 5rem;}
+                    .portfolio-narrow-content {
+                    padding: 0; }
+                  #portfolio-counter{
+                        margin-left: -1.8rem;
+                        margin-top: .8rem; }
+                        .services{
+                                height: 16rem;}
+                     .services h3{
+                        font-size: 1rem; }
+                    .services .desc h3,p{
+                        font-size: .8rem; }
+                        .blog-post {
+                            width: 14.5rem;
+                            margin-left: -1rem;
+                        }
+                        .portfolio-warkmenu{
+                            margin: .4rem .6rem; }
+                        .single-portfolio{
+                            margin-left: -1rem; }
+                        .client-photo{
+                        margin-left: -4rem; }
+                        .client-review{
+                            margin-bottom: 2.5rem;} 
+                    .card-columns {
+                           column-count: 3; }
+                        .hire h2 {
+                    font-size: 1.5rem;
+                    line-height: 2rem;}
+                    .single-portfolio {
+                            width: 14rem;}
+                            .option {
+                                margin-left: 2.3rem;
+                                margin-top: 3.5rem;}
+                        .download {
+                            margin-top: 29px;
+                            padding: 0.3rem;
+                            margin-left: -7.6rem;}
+                        .icon {
+                            font-size: 2.3rem;
+                            margin-top: -2.5rem;
+                            margin-left: 3rem;}
+                    .card-columns {
+                           column-count: 2;}
+                    .card-columns{
+                    margin-left: -1.3rem;}
+                     .blog-read-more1{
+                             padding: .2rem 4rem;} 
+                .hire .btn-hire{
+                    font-size: .8rem;} }
+            @media screen and (max-width: 768px) {
+                .portfolio-about,
+                .portfolio-services,
+                .portfolio-skills,
+                .portfolio-client,
+                .portfolio-education,
+                .portfolio-experience,
+                .portfolio-work,
+                .portfolio-blog,
+                .portfolio-contact{
+                    margin-top: 2rem;
+                    margin-left: .1rem;
+                    padding: 1rem;}                             
+        #portfolio-aside {
+        width: 300px;
+        -moz-transform: translateX(-300px);
+        -webkit-transform: translateX(-300px);
+        -ms-transform: translateX(-300px);
+        -o-transform: translateX(-300px);
+        transform: translateX(-300px);
+        padding-top: 4em; }
+        #portfolio-aside .author-img{
+            margin-top: -2.6rem;}
+       #portfolio-aside #portfolio-main-menu{
+                    margin-top: -0.8rem;}
+          #portfolio-aside .portfolio-footer {
+            position: relative;
+            bottom: 0; }
+            .portfolio-main {
+                width: 100%;
+                padding: 0 1em; } 
+                .portfolio-heading {
+                    margin-bottom: 3em; } 
+                    .portfolio-nav-toggle {
+                        opacity: 1;
+                        visibility: visible; }
+                        .btn-load-more{
+                        padding: .5rem 19rem;}
+                        .single-portfolio{
+                            margin-left: -0.4rem; }
+                        .portfolio-warkmenu a{
+                        margin: .4rem .6rem}
+                     #portfolio-counter{
+                         margin-left: 0;
+                        margin-top: .8rem; }
+                    .client-photo{
+                        margin-left: -4rem; }
+                        .client-review{
+                            margin-bottom: 2.5rem;}
+                            .blog-post {
+                            width: 15.2rem;
+                            margin-left: -1rem;
+                        }  
+                    .portfolio-contact .form-group{
+                       margin-left:2rem; }
+                      .services{
+                                height: 16rem;}
+                    .services h3{
+                        font-size: 1rem; }
+                        .card-columns{
+                            margin-left: .2rem;
+                        }
+                        .card-columns {
+                           column-count: 2;}
+                           .blog-read-more1{
+                             padding: .2rem 4rem;} 
+                    .portfolio-narrow-content {
+                    padding: 0; } }        
+             @media screen and (max-width: 576px){
+                .portfolio-about,
+                .portfolio-services,
+                .portfolio-skills,
+                .portfolio-client,
+                .portfolio-education,
+                .portfolio-experience,
+                .portfolio-work,
+                .portfolio-blog,
+                .portfolio-contact{
+                    margin-top: 4rem;
+                     padding: 0rem;} 
+                     .slider-content a{
+                         font-size: .7rem;
+                     margin-left: 1rem; }
+                     .portfolio-narrow-content {
+                    padding: 0; }              
+                .carousel-inner{
+                    height: 30rem; }
+                .slider-content{
+                    text-align: center;
+                    color: #fff;
+                    font-style: italic;
+                    letter-spacing: .1rem;
+                    margin-left: -.2rem;}
+                    .slider-content h3{
+                    font-size: 2.2rem;
+                    font-weight:700;
+                    margin-top: -4rem;
+                    color: #fff;
+                    font-style: italic;
+                    letter-spacing: .1rem;
+                    margin-bottom: 4rem;}
+                .slider-content .btn{
+                    padding: 0.5rem 10rem;}
+                    .services{
+                        margin-bottom: 3.4rem;
+                        font-size: 1rem; }
+                    .hire{
+                    margin-top: 1rem;}
+                .hire h2 {
+                    font-size: 1.5rem;
+                    line-height: 2rem;}
+                .hire .btn-hire{
+                    font-size: .8rem;}
+                    .card-columns {
+                        column-count: 2;}
+                    #portfolio-counter{
+                        margin-left: 0;
+                        font-size: 1.8rem;
+                        margin-top: .8rem; }
+                    .portfolio-warkmenu a{
+                        margin: .6rem .1rem}
+                   .btn-load-more{
+                        padding: .5rem 14rem;}
+                        .single-portfolio{
+                        margin-left: 9.2rem;}
+                        .client-photo{
+                            margin-left: 6rem;}
+                        .client-review{ 
+                            margin-right: 4rem;}
+                          .blog-post {
+                                width: 16rem;
+                                margin-left: 0rem;}
+                             .services{
+                                height: 17rem;}}
+             @media screen and (max-width: 480px){
+                 .slider-content .btn{
+                     font-size: .5rem;}
+                 .btn-load-more{
+                        padding: .5rem 11rem;}
+                        .single-portfolio{
+                        margin-left: 6.5rem;}
+                        .client-photo{
+                            margin-left: 3rem;}
+                            .services{
+                                height: 14rem;}
+                             .portfolio-warkmenu a{
+                        margin: .6rem .1rem}
+                        .card-columns {
+                        column-count: 1;}
+                        .blog-post {
+                            width: 23rem;
+                            margin-left: 2.8rem;}
+                        .client-review{
+                            margin-right: 2rem;}}
