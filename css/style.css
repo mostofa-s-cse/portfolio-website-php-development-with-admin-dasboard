@@ -40,7 +40,7 @@ li{
   list-style: none;}
 .btn-load-more {
   margin-bottom: 3rem;
-  padding: .5rem 22.2rem;}
+  width: 100%;}
 /* ==========================PORTFOLIO ASIDE SECTION CSS=============================*/
 #portfolio-page {
   width: 100%;
